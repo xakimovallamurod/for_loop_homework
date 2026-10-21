@@ -1,9 +1,9 @@
 def main(n):
     """
-    Return numbers from zero to n in a list view.
-    Args:
-        n: int
-    Returns:
-        list: return  answer
+    n soni berilgan. 0 dan n gacha (n ham kiradi) bo'lgan sonlarni ro'yxat ko'rinishida qaytaring. for siklidan foydalaning.
+    Argumentlar:
+        n(int): son
+    Qaytaradi:
+        list: natija ro'yxati
     """
     return

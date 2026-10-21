@@ -1,9 +1,9 @@
-def main(list1):
+def main(ismlar):
     """
-    Returns a list where only the first letter of each name is capitalized.
-    Args:
-        list1: list
-    Returns:
-        list: return  answer
+    Kichik harflar bilan yozilgan ismlar ro'yxati berilgan. Har bir ismni bosh harf bilan boshlab, yangi ro'yxat qaytaring. for siklidan foydalaning.
+    Argumentlar:
+        ismlar(list): ismlar
+    Qaytaradi:
+        list: natija ro'yxati
     """
     return

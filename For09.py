@@ -1,9 +1,9 @@
-def main(price):
+def main(narx):
     """
-    The price of a kilogram of sweets is given. Return the price of a dessert from one to ten kg in the form of a list.
-    Args:
-        price: int
-    Returns:
-        list: return  answer
+    Allamurod bozordan olma olmoqchi. 1 kg olma narxi berilgan. 1 dan 10 kg gacha olmaning narxlarini ro'yxat ko'rinishida qaytaring. for siklidan foydalaning.
+    Argumentlar:
+        narx(int): 1 kg narxi
+    Qaytaradi:
+        list: natija ro'yxati
     """
     return

@@ -1,10 +1,10 @@
-def main(k,n):
+def main(k, n):
     """
-    Repeat the number k n times and return to the list view.
-    Args:
-        k: int
-        n: int
-    Returns:
-        list: return  answer
+    k va n sonlari berilgan. k sonini n marta takrorlab, ro'yxat ko'rinishida qaytaring. for siklidan foydalaning.
+    Argumentlar:
+        k(int): takrorlanadigan son
+        n(int): takrorlar soni
+    Qaytaradi:
+        list: natija ro'yxati
     """
     return

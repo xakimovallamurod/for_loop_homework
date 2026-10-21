@@ -1,9 +1,9 @@
-def main(N):
+def main(n):
     """
-    The number N is given. Calculate the sum below: 1 + 1/2 + 1/3 + … + 1/N.
-    Args:
-        N: int
-    Returns:
-        float: return  answer
+    n soni berilgan. 1 + 1/2 + 1/3 + … + 1/n yig'indisini hisoblang va 2 xona aniqlikda yaxlitlab qaytaring. for siklidan foydalaning.
+    Argumentlar:
+        n(int): son
+    Qaytaradi:
+        float: yig'indi
     """
     return

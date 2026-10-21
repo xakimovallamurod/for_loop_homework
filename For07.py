@@ -1,9 +1,9 @@
-def main(N):
+def main(n):
     """
-    Return the sum of odd numbers from zero to N.
-    Args:
-        N: int
-    Returns:
-        int: return  answer
+    n soni berilgan. 1 dan n gacha (n ham kiradi) bo'lgan toq sonlar yig'indisini qaytaring. for siklidan foydalaning.
+    Argumentlar:
+        n(int): son
+    Qaytaradi:
+        int: natija
     """
     return

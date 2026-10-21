@@ -1,10 +1,10 @@
-def main(A,B):
+def main(a, b):
     """
-    Return the sum of all integers from A to B.
-    Args:
-        A: int
-        B: int
-    Returns:
-        int: return  answer
+    a va b sonlari berilgan (a < b). a dan b gacha (ikkalasi ham kiradi) bo'lgan barcha sonlar yig'indisini qaytaring. for siklidan foydalaning.
+    Argumentlar:
+        a(int): boshi
+        b(int): oxiri
+    Qaytaradi:
+        int: natija
     """
     return

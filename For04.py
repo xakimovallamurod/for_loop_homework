@@ -1,10 +1,10 @@
-def main(A,B):
+def main(a, b):
     """
-    Return the numbers from A to B in the form of a list.
-    Args:
-        A: int
-        B: int
-    Returns:
-        list: return  answer
+    a va b sonlari berilgan (a < b). a dan b gacha (ikkalasi ham kiradi) bo'lgan sonlarni ro'yxat ko'rinishida qaytaring. for siklidan foydalaning.
+    Argumentlar:
+        a(int): boshi
+        b(int): oxiri
+    Qaytaradi:
+        list: natija ro'yxati
     """
     return
